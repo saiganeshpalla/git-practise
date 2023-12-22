@@ -1,13 +1,10 @@
 body{
-    background-color: white;
-}
-table{
-    background-color: yellow;
+    color: red;
 
 }
-tr{
-    color: green;
+table{
+    color: black
 }
-th{
-    color: pink;
+tr{
+    color: black
 }
